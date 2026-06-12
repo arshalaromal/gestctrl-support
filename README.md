@@ -52,5 +52,3 @@ Please explain:
 This repository is only for public support and issue tracking.
 
 GestCtrl itself is closed-source proprietary software.
-
----
